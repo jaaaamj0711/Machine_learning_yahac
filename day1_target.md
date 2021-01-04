@@ -1,6 +1,6 @@
 # 목표와 전략
 
-강의 링크 :https://opentutorials.org/course/4570/29045
+> 강의 링크 :https://opentutorials.org/course/4570/29045
 
 딥러닝을 코드로 구현하는 방법을 제대로 익히기 위해서는 **원리, 수학, 코딩, 데이터** 등과 같은 많은 지식이 필요하다.
 
