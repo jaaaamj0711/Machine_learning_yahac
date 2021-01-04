@@ -16,15 +16,16 @@ Decision Tree, RandomForest, KNN, SVM, Neural Network 이중에서 우리가 수
 
 * * *
 
-**TensorFlow**의 경쟁자는?
+
+Q1. **TensorFlow**의 경쟁자는?
 
  -> TensorFlow, PyTorch, Caffe2, theano 등이 있고 이러한 것들을 라이브러리라고 부른다.
 
-이들은 어떤 알고리즘을 코드로 이용할 수 있게 하는가?
+Q2. 이들은 어떤 알고리즘을 코드로 이용할 수 있게 하는가?
 
  -> Neural Network = 인공 신경망  = Deep learning
 
-**딥러닝**의 경쟁자는?
+Q3. **딥러닝**의 경쟁자는?
 
  -> Decision Tree, RandomForest, KNN, SVM, Neural Network 등이 있고 이러한 것들을 알고리즘이라고 부른다.
 
