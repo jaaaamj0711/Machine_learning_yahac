@@ -29,5 +29,5 @@
 - 수업을 마치며
 
 
-머신러닝 야학:https://ml.yah.ac/
-강의 사이트:https://opentutorials.org/course/1
+> 머신러닝 야학:https://ml.yah.ac/  
+> 강의 사이트:https://opentutorials.org/course/1
