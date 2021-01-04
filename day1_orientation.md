@@ -6,18 +6,15 @@
 - 회귀: 숫자로된 결과를 예측
 - 분류: 카테고리로된 결과를 예측
 
-2. 머신러닝 알고리즘 예시) Decision Tree, RandomForest, KNN, SVM, Neural Network
-이중에서 우리가 수업에서 사용하는 것은 **Neural Network** 이다.
+2. 머신러닝 알고리즘 예시)   
+Decision Tree, RandomForest, KNN, SVM, Neural Network 이중에서 우리가 수업에서 사용하는 것은 **Neural Network** 이다.
 
-3. **Neural Network**란? 사람의 두뇌가 동작하는 방법을 모방해서 기계가 학습을 할 수 있도록 고안된 알고리즘이다.
+3. **Neural Network**란? 사람의 두뇌가 동작하는 방법을 모방해서 기계가 학습을 할 수 있도록 고안된 알고리즘이다.  
+(Neural Network = 인공 신경망  = **Deep learning**) 최근에는 **딥러닝**이라는 말을 가장 많이 쓴다.
 
-Neural Network = 인공 신경망  = **Deep learning**  
-최근에는 딥러닝이라는 말을 가장 많이 쓴다.
+4. 딥러닝으로 문제를 해결할 수 있는 여러 도구들을 **Library** 라고 하는데 그 종류에는 TensorFlow, PyTorch, Caffe2, theano 등이 있다. 이 중에서도 머신러닝 야학 2기에서는 **TensorFlow**를 사용할 것이다.
 
-4. 딥러닝으로 문제를 해결할 수 있는 여러 도구들을 Library 라고 하는데 그 종류에는 TensorFlow, PyTorch, Caffe2, theano 등이 있다.  
-
-이 중에서도 머신러닝 야학 2기에서는 TensorFlow를 사용할 것이다.
-
+* * *
 
 **TensorFlow**의 경쟁자는?
 
