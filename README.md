@@ -1,5 +1,10 @@
 # 구글과 생활코딩이 함께하는 머신러닝 야학 2기
 
+![image](https://user-images.githubusercontent.com/55734436/103525975-73018200-4ec3-11eb-8dee-d85f9732d11b.png)
+
+
+
+
 ## Tensorflow (python)
 
 **(1일차)**
@@ -23,3 +28,6 @@
 - 네번째 딥러닝 - 신경망의 완성:히든레이어
 - 수업을 마치며
 
+
+머신러닝 야학:https://ml.yah.ac/
+강의 사이트:https://opentutorials.org/course/1
