@@ -55,3 +55,6 @@ print(model.predict(독립))
 print(model.predict([[15]]))
 ```
 이제 우리가 만든 모델에게 새로운 값을 넣어서 반환해주는 값을 확인할 수 있습니다.
+
+
+전체 코드는 [여기](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/lemon.ipynb)에서 확인할 수 있습니다.
