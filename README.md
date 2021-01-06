@@ -10,7 +10,7 @@
 **(1일차)**
 - [오리엔테이션](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day1_orientation.md)
 - [목표와 전략](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day1_target.md)
-- [지도학습의 빅픽쳐](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day1_target.md)
+- [지도학습의 빅픽쳐](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day1_supervised.md)
 - 실습 환경 - Google Colaboratory
 
 **(2일차)**
