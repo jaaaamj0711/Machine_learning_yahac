@@ -1,5 +1,5 @@
 # 보스턴 집값 예측(강의)
-> 강의링크: opentutorials.org/course/4570/28976
+> 강의링크:opentutorials.org/course/4570/28976
 
 |온도|판매량|
 |------|---|
