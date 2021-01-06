@@ -14,7 +14,7 @@
 - 실습 환경 - Google Colaboratory
 
 **(2일차)**
-- [표를 다루는 도구 '판다스'](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day1_pandas.md)
+- [표를 다루는 도구 '판다스'](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day2_pandas.md)
 - 첫번째 딥러닝 - [레모네이드 판매 예측](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day2_lemon.md)
 
 **(3일차)**
