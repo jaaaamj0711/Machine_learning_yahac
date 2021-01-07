@@ -23,7 +23,8 @@
 - 학습의 실제
 
 **(4일차)**
-- 세번째 딥러닝 - [아이리스 품종 분류](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/iris.ipynb)
+- 세번째 딥러닝 - [아이리스 품종 분류](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day4_iris.md)
+- 세번째 딥러닝 - [아이리스 품종 분류 실습](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/iris.ipynb)
 
 **(5일차)**
 - 네번째 딥러닝 - 신경망의 완성:히든레이어
