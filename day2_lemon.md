@@ -1,6 +1,6 @@
 # 레모네이드 판매 예측(강의)
 
-> 강의링크:opentutorials.org/course/4570/28974
+> 강의링크: https://opentutorials.org/course/4570/28974
 
 #### 1. 과거의 데이터를 준비한다.
 #### 2. 모델의 구조를 만듭니다.
