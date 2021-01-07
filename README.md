@@ -20,7 +20,7 @@
 **(3일차)**
 - 두번째 딥러닝 - [보스턴 집값 예측](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day3_boston.md)
 - 두번째 딥러닝 - [보스턴 집값 예측 실습](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/boston.ipynb)
-- 학습의 실제
+- [학습의 실제](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day3_train.md)
 
 **(4일차)**
 - 세번째 딥러닝 - [아이리스 품종 분류](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day4_iris.md)
