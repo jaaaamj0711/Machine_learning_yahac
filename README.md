@@ -28,8 +28,8 @@
 
 **(5일차)**
 - 네번째 딥러닝 - [신경망의 완성:히든레이어](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/day5_hidden.md)
-- 네번째 딥러닝 - 신경망의 완성:히든레이어 실습(보스턴 데이터)(https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/boston_h.ipynb)
-- 네번째 딥러닝 - 신경망의 완성:히든레이어 실습(아이리스 데이터)(https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/iris_h.ipynb)
+- 네번째 딥러닝 - 신경망의 완성:히든레이어 실습[보스턴 데이터](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/boston_h.ipynb)
+- 네번째 딥러닝 - 신경망의 완성:히든레이어 실습[아이리스 데이터](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/iris_h.ipynb)
 - 수업을 마치며
 
 
