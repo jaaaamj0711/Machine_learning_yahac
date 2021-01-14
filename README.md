@@ -32,6 +32,10 @@
 - 네번째 딥러닝 - 신경망의 완성:히든레이어 실습[아이리스 데이터](https://github.com/jaaaamj0711/Machine_learning_yahac/blob/main/iris_h.ipynb)
 - 수업을 마치며
 
+## 수료증
+![image](https://user-images.githubusercontent.com/55734436/104590036-187bd900-56ae-11eb-9dde-4c9f5d68d393.png)
+
+
 
 > 머신러닝 야학:https://ml.yah.ac/  
 > 강의 사이트:https://opentutorials.org/course/1
