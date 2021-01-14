@@ -33,7 +33,8 @@
 - 수업을 마치며
 
 ## 수료증
-![image](https://user-images.githubusercontent.com/55734436/104590036-187bd900-56ae-11eb-9dde-4c9f5d68d393.png)
+![image](https://user-images.githubusercontent.com/55734436/104590151-42350000-56ae-11eb-9622-6ce5e0cf47d9.png)
+
 
 
 
